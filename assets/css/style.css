@@ -10,8 +10,8 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Adds padding, font, and colors to header class*/
-.header {
+/* Adds padding, font, and colors to header element*/
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -19,18 +19,18 @@ body {
 }
 
 /* Adds font size and makes headers inline*/
-.header h1 {
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
 /* Sets the letter SEO to different color*/
-.header h1 .seo {
+header h1 .seo {
     color: #d9dcd6;
 }
 
-/* Adds padding, margin, font, and font sizes to the header class and set them to the right*/
-.header div {
+/* Adds padding, margin, font, and font sizes to the nav and set them to the right*/
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -38,13 +38,13 @@ body {
     font-size: 20px;
 }
 
-/* takes out the bullitin point on the header class*/
-.header div ul {
+/* takes out the bullitin point on the nav*/
+header nav ul {
     list-style-type: none;
 }
 
-/* makes header class inline spaced apart*/
-.header div ul li {
+/* makes nav inline spaced apart*/
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -213,8 +213,8 @@ p {
     font-size: 36px;
 }
 
-/* makes footer class have different text padding and align text in center*/
-.footer {
+/* makes footer have different text padding and align text in center*/
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -222,6 +222,6 @@ p {
 }
 
 /* makes footer h2 font 20px*/
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
