@@ -29,7 +29,7 @@ body {
     color: #d9dcd6;
 }
 
-/* Adds padding, margin, font, and font sizes to the links and set them to the right*/
+/* Adds padding, margin, font, and font sizes to the header class and set them to the right*/
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -38,12 +38,12 @@ body {
     font-size: 20px;
 }
 
-/* takes out the bullitin point on the links*/
+/* takes out the bullitin point on the header class*/
 .header div ul {
     list-style-type: none;
 }
 
-/* makes links inline spaced apart*/
+/* makes header class inline spaced apart*/
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
@@ -55,7 +55,7 @@ a {
     text-decoration: none;
 }
 
-/* makes the P text 16px*/
+/* makes the P element text 16px*/
 p {
     font-size: 16px;
 }
@@ -221,7 +221,7 @@ p {
     text-align: center;
 }
 
-/* makes h2 font 20px*/
+/* makes footer h2 font 20px*/
 .footer h2 {
     font-size: 20px;
 }
