@@ -150,8 +150,8 @@ p {
     max-width: 150px;
 }
 
-/* makes the div class different font, color and padded*/
-.search-engine-optimization {
+/* makes the div  different font, color and padded*/
+#search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -160,8 +160,8 @@ p {
     color: #ffffff;
 }
 
-/* makes the div class different font, color and padded*/
-.online-reputation-management {
+/* makes the div  different font, color and padded*/
+#online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -170,8 +170,8 @@ p {
     color: #ffffff;
 }
 
-/* makes the div class different font, color and padded*/
-.social-media-marketing {
+/* makes the div  different font, color and padded*/
+#social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -181,34 +181,34 @@ p {
 }
 
 /* caps out img at 200px*/
-.search-engine-optimization img {
+#search-engine-optimization img {
     max-height: 200px;
 }
 
 /* caps out img at 200px*/
-.online-reputation-management img {
+#online-reputation-management img {
     max-height: 200px;
 }
 
 /* caps out img at 200px*/
-.social-media-marketing img {
+#social-media-marketing img {
     max-height: 200px;
 }
 
 /* makes h2 bigger*/
-.search-engine-optimization h2 {
+#search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
 /* makes h2 bigger*/
-.online-reputation-management h2 {
+#online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
 /* makes h2 bigger*/
-.social-media-marketing h2 {
+#social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
